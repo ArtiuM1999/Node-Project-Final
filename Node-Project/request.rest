@@ -1,0 +1,2 @@
+GET https://localhost:7000/api/cards/MyCards
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2MzNiZTBmYTcxYjQ2YTJlYTNmYmE2ODQiLCJiaXoiOnRydWUsImlhdCI6MTY2NDg2ODk2Mn0.j--Ly7dn9V8qe2mD17w-LThVT3gHXp9SLtL9wcBkMVA
