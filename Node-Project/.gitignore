@@ -1,3 +1,4 @@
-#.env
-#node_modules
-#request.rest
+#ignored
+/.env
+/node_modules
+/request.rest
